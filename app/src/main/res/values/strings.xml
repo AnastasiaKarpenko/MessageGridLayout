@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MessageGridLayout</string>
+    <string name="to">To</string>
+    <string name="to_hint">Enter email address</string>
+</resources>
